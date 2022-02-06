@@ -1,0 +1,15 @@
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/Delegat.deps.json
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/Delegat.runtimeconfig.json
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/Delegat.runtimeconfig.dev.json
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/Delegat.dll
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/ref/Delegat.dll
+/Users/ilya/Desktop/C#/Delegat/bin/Debug/net5.0/Delegat.pdb
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.csproj.AssemblyReference.cache
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.AssemblyInfoInputs.cache
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.AssemblyInfo.cs
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.csproj.CoreCompileInputs.cache
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.dll
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/ref/Delegat.dll
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.pdb
+/Users/ilya/Desktop/C#/Delegat/obj/Debug/net5.0/Delegat.genruntimeconfig.cache
