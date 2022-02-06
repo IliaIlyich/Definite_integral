@@ -1,2 +1,2 @@
 # Definite_integral
-Definite Integral calculating (f(x) as a delegate)
+Calculating definite integral using static method with a  formal operator f(x) as a delegate
